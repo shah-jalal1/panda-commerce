@@ -1,0 +1,14 @@
+.panda-card img{
+    background-color: rgb(160, 190, 156);
+    height: 350px;
+}
+.panda-card{
+    border: 0;
+}
+.panda-card-footer{
+    background-color: white;
+    border: 0;
+}
+.header-section {
+    background-color: rgb(114, 106, 94);
+}
