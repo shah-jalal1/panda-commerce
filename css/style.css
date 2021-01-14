@@ -1,5 +1,10 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    
+}
+
 .panda-card img{
-    background-color: rgb(160, 190, 156);
+    background-color: rgb(156, 154, 155);
     height: 350px;
 }
 .panda-card{
@@ -10,5 +15,40 @@
     border: 0;
 }
 .header-section {
-    background-color: rgb(114, 106, 94);
+    background-color: rgb(138, 134, 129);
 }
+.btn {
+    background-color: #A4BC46;
+    border-radius: 10px;
+}
+
+.fas{
+    color: white;
+}
+
+.shoppting-cart-img{
+    height: 300px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.card{
+    border-radius: 20px;
+}
+
+
+.last-section .icon{
+    font-size: 70px;
+    background-color: white;
+    border-radius: 50%;
+    padding: 8px;
+    color: black;
+    margin-right: 11px;
+}
+.last-section h4, .paragraph{
+    color: white;
+}
+
+
+
